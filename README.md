@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IsraSuper
-- 👀 I’m interested in Front End web devolpment.
-- 🌱 I’m currently learning HTML CSS JS.
+- 👀 I’m interested in IOS development.
+- 🌱 I’m currently learning Xcode, SwiftUI, UI/UX.
 - 💞️ I’m looking to collaborate on Projects. 
-- 📫 How to reach me Phone number of Facebook Account 
+- 📫 How to reach me E-mail israakheder98@gmail.com . 
 
 <!---
 IsraSuper/IsraSuper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
